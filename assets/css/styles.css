@@ -74,8 +74,8 @@ html {
 }
 
 .sidebar { 
-    visibility: hidden;
-    display: none;
+    visibility: hidden !important;
+    display: none !important;
 }
 
 .section-divider{
